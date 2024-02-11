@@ -1,6 +1,6 @@
 {
-    "name": "GreenMetrica",
-    "short_name": "GreenMetrica",
+    "name": "greenmetrica",
+    "short_name": "greenmetrica",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
